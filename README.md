@@ -8,7 +8,7 @@ https://rye-up.com/
 ## Install
 Rye is built in Rust. 
 
-You can install it with the following command.
+You can install it with the following command:
 
 ```shell
 curl -sSf https://rye-up.com/get | bash
